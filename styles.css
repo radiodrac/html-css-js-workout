@@ -2,6 +2,10 @@ html {
    font-family: 'Inter', sans-serif;
 }
 
+div {
+    margin: auto;
+}
+
 .box {
     display: flex;
     justify-content: center;
