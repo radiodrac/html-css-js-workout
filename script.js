@@ -1,1 +1,1 @@
-console.log('Hello from Nerdbord!')
+console.log('Hello from Nerdbord!');
