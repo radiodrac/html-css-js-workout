@@ -1,9 +1,5 @@
 html {
-   font-family: 'Inter', sans-serif;
-}
-
-div {
-    margin: auto;
+    font-family: 'Inter', sans-serif;
 }
 
 .box {
@@ -13,6 +9,10 @@ div {
     width: 200px;
     height: 200px;
     border: 40px solid #F97316;
+}
+
+.centered-box {
+    margin: auto;
 }
 
 .header {
